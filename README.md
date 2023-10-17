@@ -2,10 +2,10 @@
 
 ## Description of files
 
-serial.c - Sequential version
-parallel_simple.c - Parallel version using MPI_Send and MPI_Recv
-parallel_collective.c - Parallel version using collective methods.
-parallel_tasks.c - Parallel version using 2 processors for each task, has to be run with 8 processor.
+1. serial.c - Sequential version
+2. parallel_simple.c - Parallel version using MPI_Send and MPI_Recv
+3. parallel_collective.c - Parallel version using collective methods.
+4. parallel_tasks.c - Parallel version using 2 processors for each task, has to be run with 8 processor.
 
 ## Compile
 
